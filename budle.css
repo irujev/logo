@@ -1,0 +1,10 @@
+.budle-top{
+	position: fixed;
+    width: 100%;
+    z-index: 1;
+	top:0;
+}
+.budle-logo{
+	background: url(img/budle-logo.png);
+	background-size: 300px 100px;
+}
